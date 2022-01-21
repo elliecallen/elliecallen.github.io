@@ -1,0 +1,50 @@
+h1 {
+  color:red;
+  font-family:arial;
+  border: 5px solid black;
+  padding: 50px;
+}
+
+h4 {
+  color:red;
+  font-family:arial;
+  border: 5px dotted red;
+  background-color: black;
+}
+
+h3 {
+  color:blue;
+  font-family:helvetica;
+  border: 5px solid red;
+  background-color: pink;
+}
+
+p {
+  color:green;
+  font-family:helvetica;
+  border: 2px solid red;
+  background-color: yellow;
+}
+
+body {
+  background-color: pink;
+}
+
+img {
+  border: 5px solid red;
+  width: 50%;
+  height: 50%;
+  margin-left: 100px;
+}
+
+h1 {
+  color:purple;
+  font-family:arial;
+  border: 5px solid purple;
+  padding: 50px;
+}
+
+#top {
+  background-color: red;
+  float: left;
+}
